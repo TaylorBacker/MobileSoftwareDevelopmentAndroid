@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BackerMinesweeper</string>
+        <string name="game_over">Game Over! Try Again?</string>
+        <string name="you_hit_a_mine">BA-BOOM! MINE HIT!</string>
+        <string name="reset">Reset</string>
+        <string name="congrats">Woohoo! Congrats!</string>
+        <string name="you_win">You Win!</string>
+        <string name="reset2">Reset</string>
+        <string name="flags">Flags: %1$s</string>
+        <string name="flags2">Flags: %1$s</string>
+        <string name="minesweeper">Minesweeper</string>
+        <string name="flag_mode">Check for Flag Mode</string>
+        <string name="flags_3">Flags: 3</string>
+        <string name="reset3">Reset</string>
+    </resources>
